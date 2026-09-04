@@ -1,6 +1,7 @@
 tensorflow
+keras
 numpy
 pandas
-kagglehub
 opencv-python
 pillow
+kagglehub
